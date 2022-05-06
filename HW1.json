@@ -1,0 +1,16 @@
+{      1.Создать внешний репозиторий Json
+
+	"Заходим на сайт https://github.com/JowiZaza/Group-28" : "Жмем кнопку",
+	" В поле Repository name" : "пишем Json",
+	"Жмем кнопку" : "Create Repositories",
+
+	2.Клонировать репозиторий JSON на локальный компьютер.
+         
+	"Открывает заранее созданную папку JSON" : "Правой кнопкой жмем Git Bash Here",
+	"В терминале клонируем репозиторий Json" : "https://github.com/JowiZaza/Json.git",
+	"Внутри локального JSON создать файл “new.json”." : "touch new.json",
+	"делаем стондартную процедуру" : "Git add", "new.json",  "git commit -m", "git status", "git push",
+}
+	
+	
+
