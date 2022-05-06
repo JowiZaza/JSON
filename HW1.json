@@ -10,7 +10,15 @@
 	"В терминале клонируем репозиторий Json" : "https://github.com/JowiZaza/Json.git",
 	"Внутри локального JSON создать файл “new.json”." : "touch new.json",
 	"делаем стондартную процедуру" : "Git add", "new.json",  "git commit -m", "git status", "git push",
-}
+        "Отредактировать содержание файла “new.json” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата" : "Всё написать в формате JSON",
 	
+	"Name" : "Jowi",
+	"Surname" : "Zaza",
+	"Age" : "39",
+	"Home Pets" : "Cat",
+	"Salary" : "1000",
+
+	"Отправить изменения на внешний репозиторий" : "Git Add", "Git Commit -m","Git Push":
+}
 	
 
